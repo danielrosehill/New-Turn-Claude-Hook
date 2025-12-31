@@ -1,3 +1,5 @@
+[![Part of the Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # New-Turn-Claude-Hook
 
 A concept for a Claude Code hook that intelligently detects when a user should start a new conversation rather than continuing the current one.
@@ -45,3 +47,7 @@ This is currently a planning/idea stage project. Next steps:
 
 - [transcript-raw.md](transcript-raw.md) - Verbatim transcript of the original idea capture
 - [transcript-edited.md](transcript-edited.md) - Lightly edited transcript for readability
+
+---
+
+For more Claude Code projects, visit [my Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
